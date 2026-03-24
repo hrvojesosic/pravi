@@ -9,6 +9,7 @@ namespace pravi
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novo2");
         }
     }
 }
